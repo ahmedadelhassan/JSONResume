@@ -1,0 +1,323 @@
+{
+  "basics": {
+    "name": "Ahmed Hassan",
+    "label": "Graduate Student",
+    "phone": "+4915753368131",
+    "website": "",
+    "summary": "I am graduate student in machine learning and data mining. My main areas of interests are bioinformatics, Brain-Computer Interface, and machine learning in space.\n\nI also have a good background in various other topics including embedded systems, high energy physics, space systems, game programming and design.",
+    "location": {
+      "address": "Schedestrasse 7, 20251 Hamburg",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "DE",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Bigpoint GmbH",
+      "position": "Big Data Engineer Intern",
+      "website": "",
+      "startDate": "2016-03-01",
+      "summary": "I work as a member of the Data Infrastructure team, which is part of Business Intelligence department. I help the team in building and maintaining the company's data warehouse and data marts. I also work on behavioral analysis of players, and using machine learning in the context of predictive analytics to predict user payment decisions.",
+      "highlights": []
+    },
+    {
+      "company": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2015-04-01",
+      "summary": "Machine learning for EMG signals analysis and classi\fcation for upper arm orthosis control",
+      "highlights": [],
+      "endDate": "2015-06-01"
+    },
+    {
+      "company": "Totally Awesome Games Inc.",
+      "position": "Co Founder",
+      "website": "",
+      "startDate": "2014-01-01",
+      "summary": "· Worked on under development Duel of Heroes TCG game\n· Design game features and game mechanics\n· Game Design documentation\n· Several small game development projects for mobile.",
+      "highlights": [],
+      "endDate": "2014-12-01"
+    },
+    {
+      "company": "Valeo",
+      "position": "Software Design Engineer",
+      "website": "",
+      "startDate": "2013-03-01",
+      "summary": "· First and Key member of VWS (Valeo Wiper Systems) core team\n· System and Software Requirements Engineering\n· Design and Coding of different software modules in C/C++\n· Design and Coding of automation scripts in different scripting languages such as VBA and Python\n· Design of Test plans and scripts for component, integration and validation testing\n· Model Based Development and Validation\n· Documentation and Process development\n· Support for other team members, and Conducting Peer Reviews\n· Tasks Distribution and Estimation\n· Assets Management and Coordination",
+      "highlights": [],
+      "endDate": "2014-08-01"
+    },
+    {
+      "company": "Huawei Egypt",
+      "position": "Communications Engineering Trainee",
+      "website": "",
+      "startDate": "2011-08-01",
+      "summary": "Training on Huawei ground equipment, sites, BTSs and BSCs",
+      "highlights": [],
+      "endDate": "2011-09-01"
+    },
+    {
+      "company": "National Authority for Remote Sensing and Space",
+      "position": "Satellite System Engineering Trainee",
+      "website": "",
+      "startDate": "2011-07-01",
+      "summary": "Intensive training on satellite subsystems design, integration and testing in BA by NARSS engineers",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    },
+    {
+      "company": "Vibrant Communications",
+      "position": "Game Master",
+      "website": "",
+      "startDate": "2010-12-01",
+      "summary": "Online game moderator and server testing",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Alexandria University",
+      "area": "",
+      "studyType": "BSc.",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Cairo University",
+      "area": "",
+      "studyType": "Postgraduate Courses",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2013-01-01"
+    },
+    {
+      "institution": "El Nasr Boys English School",
+      "area": "",
+      "studyType": "GCSE",
+      "startDate": "2005-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2007-01-01"
+    },
+    {
+      "institution": "Université Jean Monnet Saint-Etienne",
+      "area": "",
+      "studyType": "Master of Science (M.Sc.)",
+      "startDate": "2014-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2016-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ROOT",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electronics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Particle Physics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Game Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microcontrollers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VHDL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Multisim",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Assembly Language",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proteus",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Blogging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "System Administration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "BCI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Simulations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Signal Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded Systems",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "English",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited working"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary"
+    }
+  ]
+}
